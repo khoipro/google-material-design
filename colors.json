@@ -1,0 +1,86 @@
+"colors": {
+		{
+			"title":"red",
+			"hex": "#f44336"
+		}
+		{
+			"title": "pink",
+			"hex": "#e91e63"
+		}
+		{
+			"title": "purple",
+			"hex": "#9c27b0"
+		}
+		{
+			"title": "deep-purple",
+			"hex": "#673ab7"
+		}
+		{
+			"title": "indigo",
+			"hex": "#3f51b5"
+		}
+		{
+			"title": "blue",
+			"hex": "#2196f3"
+		}
+		{
+			"title": "light-blue",
+			"hex": "#03a9f4"
+		}
+		{
+			"title": "cyan",
+			"hex": "#00bcd4"
+		}
+		{
+			"title": "teal",
+			"hex": "#009688"
+		}
+		{
+			"title": "green",
+			"hex": "#4caf50"
+		}
+		{
+			"title": "light-green",
+			"hex": "#8bc34a"
+		}
+		{
+			"title": "lime",
+			"hex": "#cddc39"
+		}
+		{
+			"title": "yellow",
+			"hex": "#ffeb3b"
+		}
+		{
+			"title": "amber",
+			"hex": "#ffc107"
+		}
+		{
+			"title": "orange",
+			"hex": "#ff9800"
+		}
+		{
+			"title": "deep-orange",
+			"hex": "#ff5722"
+		}
+		{
+			"title": "brown",
+			"hex": "#795548",
+		}
+		{
+			"title": "grey",
+			"hex": "#9e9e9e"
+		}
+		{
+			"title": "blue-grey",
+			"hex": "#607d8b"
+		}
+		{
+			"title": "white",
+			"hex": "#ffffff"
+		}
+		{
+			"title": "black",
+			"hex": "#000000"
+		}
+}
